@@ -8,3 +8,6 @@ c_temp = float(input("섭씨 온도를 입력하세요: "))
 f_temp = celsius_to_fahrenheit(c_temp)
 
 print(f"섭씨 {c_temp}°C는 화씨 {f_temp:.2f}°F 입니다.")
+
+
+## 이건 test branch 코드입니다.
